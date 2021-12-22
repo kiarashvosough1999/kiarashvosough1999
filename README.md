@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kiarashVosough
-- 👀 I’m interested in iOS Development, ML and AI
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in iOS Development
 - 💞️ I’m looking to collaborate on International scale projects
 
 
