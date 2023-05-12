@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiarashVosough
-- 👀 I’m interested in iOS and Backend Development.
+- 👀 I’m interested in iOS and Also know about Android and Backend Development.
 - 💞️ I’m looking to collaborate on International scale projects.
-- 💪 I am a team player and also highly motivated when working on hard tasks.
+- 💪 I am a team player and also highly motivated when working on Apple platforms.
 - 📫 You can always contact me via E-mail: vosough.k@gmail.com
 
 # Summary:
